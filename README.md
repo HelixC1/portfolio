@@ -82,7 +82,7 @@ Domaines     Avionique · IoT · Cybersécurité · Robotique · Fintech
 ## Structure du dépôt
 
 ```
-nicolas-lecomte-portfolio/
+portfolio/
 ├── README.md                 ← Vous êtes ici
 ├── LICENSE
 ├── .gitignore
