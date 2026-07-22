@@ -11,9 +11,9 @@
 
 | Project | Description |
 |---------|-------------|
-| [nicolas-lecomte-portfolio](https://github.com/HelixC1/nicolas-lecomte-portfolio) | Full portfolio — 6 embedded/security projects |
-| [AERO-SENTINEL](https://github.com/HelixC1/nicolas-lecomte-portfolio/tree/main/projects/aero-sentinel) | Real-time multi-sensor supervision (STM32) |
-| [HIL-FAULT](https://github.com/HelixC1/nicolas-lecomte-portfolio/tree/main/projects/hil-fault) | Hardware-in-the-loop fault injection + CI |
-| [QUANT-SHIELD](https://github.com/HelixC1/nicolas-lecomte-portfolio/tree/main/projects/quant-shield) | Real-time portfolio risk monitoring |
+| [portfolio](https://github.com/HelixC1/portfolio) | Full portfolio — 6 embedded/security projects |
+| [AERO-SENTINEL](https://github.com/HelixC1/portfolio/tree/main/projects/aero-sentinel) | Real-time multi-sensor supervision (STM32) |
+| [HIL-FAULT](https://github.com/HelixC1/portfolio/tree/main/projects/hil-fault) | Hardware-in-the-loop fault injection + CI |
+| [QUANT-SHIELD](https://github.com/HelixC1/portfolio/tree/main/projects/quant-shield) | Real-time portfolio risk monitoring |
 
 📫 lecomte.ece@gmail.com · Bordeaux / Paris, France
