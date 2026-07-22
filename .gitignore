@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+*.log
+
+# C / Embedded
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.pem
+*.key
+credentials.json
+
+# Data (keep examples)
+projects/quant-shield/data/live/
+*.csv
+!projects/flight-logger-edge/tools/sample_flight.csv
+
+# Test cache
+.pytest_cache/
